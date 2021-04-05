@@ -1,0 +1,464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Wolcen Lords of Mayhem v1.1.1.1-P2P &laquo;  Skidrow &amp; Reloaded Games</title>
+
+ 
+
+<link rel="stylesheet" href="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/style.css" type="text/css" media="screen" />
+
+<style type="text/css">
+
+body {
+background: #000000 url(https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/images/bg-steel.jpg) repeat-x fixed center top;
+}
+a:hover, h1, h1 a, h2, h2 a, #collapsible-link li a:hover, #nav .current_page_item a, #nav .current-cat a, #nav .current-menu-item a, #nav .current_page_ancestor a, #nav .current-cat-ancestor a, #nav .current-menu-ancestor a {
+color: #b1ab8f;
+}
+
+</style>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Skidrow &amp; Reloaded Games &raquo; Wolcen Lords of Mayhem v1.1.1.1-P2P Comments Feed" href="https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.skidrowreloaded.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.11"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://www.skidrowreloaded.com/wp-includes/css/dashicons.min.css?ver=5.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='https://www.skidrowreloaded.com/wp-includes/js/thickbox/thickbox.css?ver=5.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='wpts_ui_css-css'  href='https://www.skidrowreloaded.com/wp-content/plugins/wordpress-post-tabs/css/styles/default/style.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.skidrowreloaded.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='fsb-image-css'  href='https://www.skidrowreloaded.com/wp-content/plugins/simple-full-screen-background-image/includes/fullscreen-image.css?ver=5.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='codecolorer-css'  href='https://www.skidrowreloaded.com/wp-content/plugins/codecolorer/codecolorer.css?ver=0.9.16' type='text/css' media='screen' />
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.skidrowreloaded.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.skidrowreloaded.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.skidrowreloaded.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Lumberjacks Dynasty v1.02.1' href='https://www.skidrowreloaded.com/lumberjacks-dynasty-v1-02-1/' />
+<meta name="generator" content="WordPress 5.0.11" />
+<link rel="canonical" href="https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/" />
+<link rel='shortlink' href='https://www.skidrowreloaded.com/?p=128104' />
+<link rel="alternate" type="application/json+oembed" href="https://www.skidrowreloaded.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.skidrowreloaded.com%2Fwolcen-lords-of-mayhem-v1-1-1-1-p2p%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.skidrowreloaded.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.skidrowreloaded.com%2Fwolcen-lords-of-mayhem-v1-1-1-1-p2p%2F&#038;format=xml" />
+<script type="text/javascript">
+<!--
+/******************************************************************************
+***   COPY PROTECTED BY http://chetangole.com/blog/wp-copyprotect/   version 3.1.0 ****
+******************************************************************************/
+function clickIE4(){
+if (event.button==2){
+return false;
+}
+}
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("return false")
+// --> 
+</script>
+
+<script type="text/javascript">
+/******************************************************************************
+***   COPY PROTECTED BY http://chetangole.com/blog/wp-copyprotect/   version 3.1.0 ****
+******************************************************************************/
+function disableSelection(target){
+if (typeof target.onselectstart!="undefined") //For IE 
+	target.onselectstart=function(){return false}
+else if (typeof target.style.MozUserSelect!="undefined") //For Firefox
+	target.style.MozUserSelect="none"
+else //All other route (For Opera)
+	target.onmousedown=function(){return false}
+target.style.cursor = "default"
+}
+</script>
+<link rel="icon" href="https://www.skidrowreloaded.com/wp-content/uploads/2018/06/cropped-faviicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.skidrowreloaded.com/wp-content/uploads/2018/06/cropped-faviicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.skidrowreloaded.com/wp-content/uploads/2018/06/cropped-faviicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.skidrowreloaded.com/wp-content/uploads/2018/06/cropped-faviicon-270x270.png" />
+
+
+<link rel="stylesheet" href="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/css/prettyPhoto.css" type="text/css" media="screen" />
+<!--[if IE 7]><link rel="stylesheet" href="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/css/style-ie7.css" type="text/css" media="screen" /><![endif]-->
+<!--[if lt IE 7]><link rel="stylesheet" href="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/css/style-ie6.css" type="text/css" media="screen" /><![endif]-->
+<style type="text/css">.entry-meta { display: none; }</style><link rel="pingback" href="https://www.skidrowreloaded.com/xmlrpc.php" />
+
+
+<script type="text/javascript" src="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/js/animatedcollapse.js"></script>
+<script type="text/javascript" src="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/js/custom.js"></script>
+
+<script data-cfasync="false" type="text/javascript" src="//cupmidnithe.com/aas/r45d/vki/1825609/tghr.js"></script>
+
+<body class="post-template-default single single-post postid-128104 single-format-standard">
+
+
+<div id="page-wrap">
+
+	<!--Begin Header-->
+	<div id="header">
+		
+		<!--Begin Logo-->
+					<div id="logo">
+				<a href="https://www.skidrowreloaded.com"><img src="https://www.skidrowreloaded.com/wp-content/uploads/2018/06/logoo.png" alt="" /></a>
+			</div>
+				<!--End Logo-->
+	
+		<!--Begin Social Icons-->
+		<div id="communication">
+						<a href="http://feeds.feedburner.com/SkidrowReloadedGames"><img src="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/images/icon-rss.gif" alt="RSS" /></a>			<a href="https://twitter.com/skidrowwgamess"><img src="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/images/icon-twitter.gif" alt="Twitter" /></a>			<a href="https://www.skidrowreloaded.com"><img src="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/images/icon-facebook.gif" alt="Facebook" /></a>		</div>
+		<!--End Social Icons-->
+		
+		<!--Begin Navigation-->
+		<div id="nav">	
+			<ul id="menu-menu" class=""><li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-51"><a href="https://www.skidrowreloaded.com/">HOME</a></li>
+<li id="menu-item-1483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1483"><a href="https://www.skidrowreloaded.com/games-list/">GAMES LIST</a>
+<ul class="sub-menu">
+	<li id="menu-item-1490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1490"><a href="https://www.skidrowreloaded.com/pc/">PC</a></li>
+	<li id="menu-item-2201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2201"><a href="https://www.skidrowreloaded.com/game-updates/">GAME UPDATES</a></li>
+</ul>
+</li>
+<li id="menu-item-3237" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3237"><a href="https://www.skidrowreloaded.com/category/pc-games/">PC GAMES</a></li>
+<li id="menu-item-846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-846"><a href="https://www.skidrowreloaded.com/category/pc-repack/">PC REPACK</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-838"><a href="https://www.skidrowreloaded.com/category/game-updates/">GAME UPDATES</a></li>
+<li id="menu-item-35082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35082"><a href="https://www.skidrowreloaded.com/donate/">Donate ❤️</a></li>
+<li id="menu-item-13486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13486"><a href="https://www.skidrowreloaded.com/dmca/">DMCA</a></li>
+<li id="menu-item-2896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2896"><a href="https://www.skidrowreloaded.com/request-games/">Request Game</a>
+<ul class="sub-menu">
+	<li id="menu-item-2895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2895"><a href="https://www.skidrowreloaded.com/request-games/">Request Games</a></li>
+	<li id="menu-item-3254" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3254"><a href="https://www.skidrowreloaded.com/category/request-accepted/">REQUEST ACCEPTED</a></li>
+</ul>
+</li>
+</ul>		</div>
+		
+								
+		<!--End Navigation-->
+		
+	</div>
+	<!--End Header-->
+	
+	<!--Begin Slider-->
+	<!-- OWM Removed  -->
+	<!--End Slider-->
+
+	<div class="clear"></div>
+	
+	<div id="overall-container">
+	
+		
+<!--Two Column Post Template-->
+
+<div class="post-extended">
+		
+			<div class="left">&laquo; <a href="https://www.skidrowreloaded.com/lumberjacks-dynasty-v1-02-1/" rel="prev">Lumberjacks Dynasty v1.02.1</a></div>
+		<div class="right"></div>
+		<div class="clear"></div><br/>
+			
+	<h2>Wolcen Lords of Mayhem v1.1.1.1-P2P</h2>
+
+	<div class="meta">
+		Posted 05 Apr 2021 in <a href="https://www.skidrowreloaded.com/category/pc-games/" rel="category tag">PC GAMES</a>, <a href="https://www.skidrowreloaded.com/category/request-accepted/" rel="category tag">REQUEST ACCEPTED</a> 	</div>
+	
+	<p><a href="https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/"><img class="lazy lazy-hidden aligncenter" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="httpS://www.skidrowreloaded.com/wp-content/uploads/2021/04/Wolcen-Lords-of-Mayhem-pc-free-download.jpg" alt="Wolcen Lords of Mayhem v1.1.1.1-P2P" width="241" height="339" /><noscript><img class="aligncenter" src="httpS://www.skidrowreloaded.com/wp-content/uploads/2021/04/Wolcen-Lords-of-Mayhem-pc-free-download.jpg" alt="Wolcen Lords of Mayhem v1.1.1.1-P2P" width="241" height="339" /></noscript></a></p>
+<p style="text-align: center;"><span style="color: #99cc00;"><strong><span style="color: #3366ff;"><span style="color: #008000;"><span style="color: #ffff00;"><span style="color: #00ffff;">P2P</span></span></span></span> &#8211; <span style="color: #ff9900;">ONE FTP LINK</span> &#8211;  <span style="color: #99cc00;">TORRENT</span></strong></span></p>
+<p style="text-align: center;">The game features a unique mechanic called Apocalyptic Form that allows players to&#8230;</p>
+<p style="text-align: center;"><span id="more-128104"></span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<div class="wordpress-post-tabs tabs_128104_0_wrap wordpress-post-tabs-skin-default""><div id="tabs_128104_0"><ul><li><a href="https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/#tabs-128104-0-0" >DESCRIPTION / DOWNLOAD</a></li><li><a href="https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/#tabs-128104-0-1" >SYSTEM REQUIREMENTS</a></li><li><a href="https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/#tabs-128104-0-2" >SCREENSHOTS</a></li><li><a href="https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/#tabs-128104-0-3" >GAMEPLAY</a></li><li><a href="https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/#tabs-128104-0-4" >INFO</a></li></ul><div class="wpts_cl"></div><div id="tabs-128104-0-0">
+<h5>ABOUT THE GAME</h5>
+<p>The game features a unique mechanic called Apocalyptic Form that allows players to shape shift into a highly customized character! You’re free to mold your character thanks to a deep and rich customization system.</p>
+<p>Title: Wolcen Lords of Mayhem Bloodtrail<br />
+Genre: Action, Adventure, Indie, RPG<br />
+Release Date: 03 Dec, 2020</p>
+<p><span style="color: #00ff00;">Support the software developers. BUY IT!</span><br />
+• <a href="https://store.steampowered.com/app/424370/Wolcen_Lords_of_Mayhem/" target="_blank" rel="noopener noreferrer">https://store.steampowered.com/app/424370/Wolcen_Lords_of_Mayhem/</a></p>
+<p>Wolcen Lords of Mayhem v1.1.1.1-P2P<br />
+Size: 17.3 GB<br />
+——————————-</p>
+<p><span style="color: #ecf22e;"><strong>FTP LINK</strong></span><br />
+<a href="https://www.skidrowreloaded.com" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Uploading..........</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>UPTOBOX</strong></span><br />
+<a href="https://uptobox.com/a5ulcwc8mat9" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.rar</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>1FICHIER</strong></span><br />
+<a href="https://1fichier.com/?ivpg48q6qiq3bh2lnle1" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.rar</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>DROPAPK</strong></span><br />
+<a href="https://dropapk.to/h81rmyz24nt2" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.rar</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>FILESUPLOAD</strong></span><br />
+<a href="https://filesupload.org/bcde543bd5c25587/Wolcen_Lords_of_Mayhem.iso" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.rar</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>TURBOBIT</strong></span><br />
+<a href="https://turb.cc/80e5a9qwo95g.html" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.rar</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>HITFILE</strong></span><br />
+<a href="https://hitf.cc/JECx4td" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.rar</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>TORRENT</strong></span><br />
+<a href="https://www18.zippyshare.com/v/42ag0oFK/file.html" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.Torrent</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>ANOTHER TORRENT</strong></span><br />
+<a href="https://www.sendspace.com/file/2l5rg5" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.Torrent</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>ANOTHER TORRENT</strong></span><br />
+<a href="https://clicknupload.co/0lqs2vagy4ge" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.Torrent</div></div>
+<p></a></p>
+<p><span style="color: #ecf22e;"><strong>ANOTHER TORRENT</strong></span><br />
+<a href="https://1fichier.com/?564uoc89yfvvkyt66vrv" target="_blank" rel="noopener"></p>
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen.Lords.of.Mayhem.v1.1.1.1-P2P.Torrent</div></div>
+<p></a></p>
+<div style="float: left:;">
+<blockquote style="width: 500px;"><p>Enjoy</p></blockquote>
+</div>
+</div><div id="tabs-128104-0-1">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<div class="game_area_sys_req_leftCol">
+<p><strong>MINIMUM:</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul class="bb_ul">
+<li><strong>OS:</strong> Windows 7 64-Bit, Windows 8.1 64-Bit, Windows 10 64-Bit</li>
+<li><strong>Processor:</strong> Intel: Core2 Duo 2.4Ghz, AMD: Phenom X2</li>
+<li><strong>Memory:</strong> 4 GB RAM</li>
+<li><strong>Graphics:</strong> Graphics: NVidia Geforce 460GTX / AMD Radeon HD5850</li>
+<li><strong>DirectX:</strong> Version 11</li>
+<li><strong>Storage:</strong> 10 GB available space</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="game_area_sys_req_rightCol">
+<p><strong>RECOMMENDED:</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul class="bb_ul">
+<li><strong>OS:</strong> Windows 7 64-Bit, Windows 8.1 64-Bit, Windows 10 64-Bit</li>
+<li><strong>Processor:</strong> Quadcore CPU</li>
+<li><strong>Memory:</strong> 8 GB RAM</li>
+<li><strong>Graphics:</strong> Graphics: GTX 670 or greater</li>
+<li><strong>DirectX:</strong> Version 11</li>
+<li><strong>Storage:</strong> 10 GB available space</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div id="tabs-128104-0-2">
+<p style="text-align: center;"><img class="lazy lazy-hidden aligncenter" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="https://cdn.akamai.steamstatic.com/steam/apps/424370/ss_7c78a85d37c90912ad27f7abee8d4bb6e1f21925.600x338.jpg?t=1617293127 alt="" width="750" height="422" /><noscript><img class="aligncenter" src="https://cdn.akamai.steamstatic.com/steam/apps/424370/ss_7c78a85d37c90912ad27f7abee8d4bb6e1f21925.600x338.jpg?t=1617293127 alt="" width="750" height="422" /></noscript><br />
+<img class="lazy lazy-hidden aligncenter" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="https://cdn.akamai.steamstatic.com/steam/apps/424370/ss_215366b8a6e9120717fdef1a0490a6fe3d1a3226.600x338.jpg?t=1617293127" alt="" width="750" height="422" /><noscript><img class="aligncenter" src="https://cdn.akamai.steamstatic.com/steam/apps/424370/ss_215366b8a6e9120717fdef1a0490a6fe3d1a3226.600x338.jpg?t=1617293127" alt="" width="750" height="422" /></noscript></p>
+</div><div id="tabs-128104-0-3">
+<p><center><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"  class="lazy lazy-hidden" data-lazy-type="iframe" data-lazy-src="&lt;iframe src=&quot;https://www.youtube.com/embed/QCE47nTUdVw&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;" alt=""><noscript><iframe src="https://www.youtube.com/embed/QCE47nTUdVw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></noscript></center></p>
+</div><div id="tabs-128104-0-4">
+<div class="codecolorer-container text twitlight" style="overflow:auto;white-space:nowrap;width:800px;"><div class="text codecolorer">Wolcen Lords of Mayhem v1.1.1.1-P2P<br />
+- Extract<br />
+- Play</div></div>
+</div><div class="wpts_cl"></div><div class="wpts_cr"></div></div></div><script type="text/javascript">						jQuery(function() {jQuery( "#tabs_128104_0" ).posttabs({ tabname : "tabs_128104_0",					fade 	: "0",					active	: "",					reload	: "0",					nav	: "0",					nexttext: "Next &#187;",					prevtext: "&#171; Prev",					enablecookie:"0"				});})</script> 
+	
+	
+	<div class="clear"></div>
+	
+	<div id="details">
+		<div class="left">
+			<img alt='' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src='https://secure.gravatar.com/avatar/5187d6969e5a6f8032f879577551683f?s=55&#038;d=mm&#038;r=g' data-lazy-srcset='https://secure.gravatar.com/avatar/5187d6969e5a6f8032f879577551683f?s=110&#038;d=mm&#038;r=g 2x' class='lazy lazy-hidden avatar avatar-55 photo' height='55' width='55' /><noscript><img alt='' src='https://secure.gravatar.com/avatar/5187d6969e5a6f8032f879577551683f?s=55&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/5187d6969e5a6f8032f879577551683f?s=110&#038;d=mm&#038;r=g 2x' class='avatar avatar-55 photo' height='55' width='55' /></noscript>			<div class="info">
+				Posted by <font class="author">Skidrow</font>
+				<br/>			</div>
+		</div>
+		<div id="social-links">
+			<a href="http://twitter.com/home?status=Wolcen Lords of Mayhem v1.1.1.1-P2P : https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/" title="Tweet this!"><img src="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/images/social-twitter.gif" alt="Tweet this!" /></a>
+			
+			<a href="http://digg.com/submit?phase=2&amp;amp;url=https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/&amp;amp;title=Wolcen Lords of Mayhem v1.1.1.1-P2P" title="Digg this!"><img src="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/images/social-digg.gif" alt="Digg This!" /></a>
+			
+			<a href="http://www.facebook.com/sharer.php?u=https://www.skidrowreloaded.com/wolcen-lords-of-mayhem-v1-1-1-1-p2p/&amp;amp;t=Wolcen Lords of Mayhem v1.1.1.1-P2P" title="Share on Facebook"><img src="https://www.skidrowreloaded.com/wp-content/themes/dilapidateds/images/social-facebook.gif" alt="Share on Facebook" id="sharethis-last" /></a>
+		</div>
+	</div>
+		
+</div>
+
+<div class="clear"></div>
+
+<div class="comments">
+	
+<!-- You can start editing here. -->
+
+
+<div class="clear"></div>
+
+
+<br/><br/>
+<h3 id="respond">Leave a Reply</h3></p>
+
+<div class="cancel-comment-reply"><small><a rel="nofollow" id="cancel-comment-reply-link" href="/wolcen-lords-of-mayhem-v1-1-1-1-p2p/#respond" style="display:none;">Click here to cancel reply.</a></small></div>
+
+
+<form action="https://www.skidrowreloaded.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" aria-required='true' />
+<label for="author"><small>Name (required)</small></label></p>
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" aria-required='true' />
+<label for="email"><small>Mail (will not be published) (required)</small></label></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><div class="left"></div>
+
+<input name="submit" type="submit" id="submit" tabindex="5" value="" />
+<input type='hidden' name='comment_post_ID' value='128104' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a14deb9314" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="44"/></p>
+</form>
+
+<div class="clear"></div>
+
+
+</div>
+
+
+
+
+
+</div><!--End overall-container-->
+
+<div class="clear"></div>
+
+<div id="footer">
+
+	
+	
+	
+	<div class="clear"></div>
+
+	<div class="copyright">Copyright &copy; 2021 skidrowreloaded <a href="http://www.skidrowreloaded.com/dmca/" target="_blank">DMCA</a></div>
+	
+</div>
+
+</div><!--End page-wrap-->
+
+<img src="https://www.skidrowreloaded.com/wp-content/uploads/2018/06/backgroundpic.jpg" id="fsb_image" alt=""/><script type="text/javascript">
+disableSelection(document.body)
+</script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/www.skidrowreloaded.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-content/plugins/wordpress-post-tabs/js/jquery.posttabs.js?ver=1.6.2'></script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-content/plugins/bj-lazy-load/js/bj-lazy-load.min.js?ver=2'></script>
+<script type='text/javascript' src='https://www.skidrowreloaded.com/wp-includes/js/wp-embed.min.js?ver=5.0.11'></script>
+<script async="async" type='text/javascript' src='https://www.skidrowreloaded.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.5'></script>
+
+
+</body>
+</html>
+<!-- Page generated by LiteSpeed Cache 2.9.9.2 on 2021-04-05 03:14:30 -->
